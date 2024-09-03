@@ -7,19 +7,33 @@ This repository showcases various traditional machine learning algorithms, provi
 
 # Features
 • Data Preprocessing: Techniques for handling missing values, encoding categorical variables, feature scaling, and data splitting.
+
 • Model Implementation: Implementation of popular traditional machine learning models, including but not limited to:
+
 • Linear Regression
+
 • Logistic Regression
+
 • Decision Trees
+
 • Random Forests
+
 • Support Vector Machines (SVM)
+
 • k-Nearest Neighbors (k-NN)
+
 • Naive Bayes
+
 • Gradient Boosting Machines (GBM)
+
 • k-Means Clustering
+
 • Principal Component Analysis (PCA)
+
 • Model Evaluation: Evaluation metrics such as accuracy, precision, recall, F1-score, ROC-AUC, and cross-validation techniques.
+
 • Hyperparameter Tuning: Grid search, random search, and other techniques for optimizing model performance.
+
 • Pipeline Construction: Building and managing pipelines to streamline the machine learning workflow.
 
 
